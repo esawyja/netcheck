@@ -16,7 +16,7 @@ You can use a service such as NGROK to allow you to see the web interface outsid
 ### CLI Interface
 ![Netcheck CLI interface](netcheck.png)
 
-### Web Interface
+### Web Interface - Running on port 9000
 ![Netcheck CLI interface](netcheck_remote.png)
 
 ## Options
